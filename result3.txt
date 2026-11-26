@@ -1,0 +1,25 @@
+===== Sookmyung Marble Board =====
+
+Node 0
+Name   : Home
+Type   : Home
+Credit : 0
+Energy : 5
+
+Node 1
+Name   : Programming
+Type   : Lecture
+Credit : 3
+Energy : -2
+
+Node 2
+Name   : Restaurant
+Type   : Restaurant
+Credit : 0
+Energy : 3
+
+Node 3
+Name   : Mathematics
+Type   : Lecture
+Credit : 3
+Energy : -2
