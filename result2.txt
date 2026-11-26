@@ -1,0 +1,1 @@
+input p1 coordinate (x y) : input p2 coordinate (x y) : distance : 5.000000
