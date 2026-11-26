@@ -1,0 +1,83 @@
+===== Sookmyung Marble Game =====
+
+Turn 1
+Player   : Player1
+Dice     : 3
+Position : Mathematics
+Credit   : 3
+Energy   : 8
+Graduated: No
+
+Turn 2
+Player   : Player2
+Dice     : 4
+Position : Home
+Credit   : 0
+Energy   : 15
+Graduated: No
+
+Turn 3
+Player   : Player1
+Dice     : 4
+Position : Mathematics
+Credit   : 6
+Energy   : 11
+Graduated: No
+
+Turn 4
+Player   : Player2
+Dice     : 1
+Position : Programming
+Credit   : 3
+Energy   : 13
+Graduated: No
+
+Turn 5
+Player   : Player1
+Dice     : 4
+Position : Mathematics
+Credit   : 9
+Energy   : 14
+Graduated: No
+
+Turn 6
+Player   : Player2
+Dice     : 3
+Position : Home
+Credit   : 3
+Energy   : 18
+Graduated: No
+
+Turn 7
+Player   : Player1
+Dice     : 5
+Position : Home
+Credit   : 9
+Energy   : 24
+Graduated: No
+
+Turn 8
+Player   : Player2
+Dice     : 3
+Position : Mathematics
+Credit   : 6
+Energy   : 16
+Graduated: No
+
+Turn 9
+Player   : Player1
+Dice     : 2
+Position : Restaurant
+Credit   : 9
+Energy   : 27
+Graduated: No
+
+Turn 10
+Player   : Player2
+Dice     : 1
+Position : Home
+Credit   : 6
+Energy   : 21
+Graduated: No
+
+===== Game End =====
